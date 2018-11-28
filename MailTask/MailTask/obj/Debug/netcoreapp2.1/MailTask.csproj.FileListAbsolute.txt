@@ -1,0 +1,11 @@
+/Users/kirill/Desktop/MailTask/MailTask/bin/Debug/netcoreapp2.1/MailTask.deps.json
+/Users/kirill/Desktop/MailTask/MailTask/bin/Debug/netcoreapp2.1/MailTask.runtimeconfig.json
+/Users/kirill/Desktop/MailTask/MailTask/bin/Debug/netcoreapp2.1/MailTask.runtimeconfig.dev.json
+/Users/kirill/Desktop/MailTask/MailTask/bin/Debug/netcoreapp2.1/MailTask.dll
+/Users/kirill/Desktop/MailTask/MailTask/bin/Debug/netcoreapp2.1/MailTask.pdb
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.csprojAssemblyReference.cache
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.AssemblyInfo.cs
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.dll
+/Users/kirill/Desktop/MailTask/MailTask/obj/Debug/netcoreapp2.1/MailTask.pdb

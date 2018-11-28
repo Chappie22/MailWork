@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Sat, 24 Nov 2018 14:24:28 +0200
+Message-ID: <CAPq83hgYcZ9AhKagUg3M+0U5NpqGvjzO5TzxmLOZvYqkZ2Ny_A@mail.gmail.com>
+Subject: test list
+From: Aleksandr Sukach <bsssbhope@gmail.com>
+To: Aleksandr Sukach <bsssbhope@gmail.com>
+Content-Type: multipart/alternative; boundary="00000000000078dc1f057b682ec3"
+
+--00000000000078dc1f057b682ec3
+Content-Type: text/plain; charset="UTF-8"
+
+number 1
+
+--00000000000078dc1f057b682ec3
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">number 1</div>
+
+--00000000000078dc1f057b682ec3--
